@@ -11,5 +11,9 @@
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
-	"author": "Brian"
+	"author": "Brian",
+	"description": "Coding on freeCodeCamp is enjoyable",
+	"keywords": [ "freecodecamp", "Javascript", "nodejs" ],
+	"license": "MIT",
+	"version": "1.2.0"
 }
